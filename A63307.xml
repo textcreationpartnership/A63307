@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the burning and sad condition of Bantam in the East-Indies in the war begun by the young king against his father, and of the great and imminent danger of the English factory there : in a letter from a member of the said factory, to a friend in London, by the last ship, which arrived on Saturday the 23th of this instant September 1682.</title>
+            <author>Member of the said factory.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63307</idno>
+            <idno type="STC">Wing T2358</idno>
+            <idno type="STC">ESTC R5197</idno>
+            <idno type="EEBO-CITATION">11962744</idno>
+            <idno type="OCLC">ocm 11962744</idno>
+            <idno type="VID">51609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the burning and sad condition of Bantam in the East-Indies in the war begun by the young king against his father, and of the great and imminent danger of the English factory there : in a letter from a member of the said factory, to a friend in London, by the last ship, which arrived on Saturday the 23th of this instant September 1682.</title>
+                  <author>Member of the said factory.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bantam (Jawa Barat, Indonesia) --  History.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:51609:1"/>
+            <head>A True Account Of the Burning and ſad Condition of BANTAM In the <hi>EAST-INDIES:</hi> In the WAR begun by the Young King againſt his Father, and of the Great and Imminent Danger of the Engliſh Fa<g ref="char:EOLhyphen"/>ctory there; in a LETTER from a Member of the ſaid Factory, to a Friend in <hi>London,</hi> by the laſt Ship; which arrived on Saturday the 23th of this inſtant <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1682.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Will acquaint you of the unhappy condition <hi>Bantam</hi> is at preſent in, and our State here, occaſioned by a Civil War betwixt the Young and Old King; the former not being inveſted with the full Authority of the Crown, and grudging at thoſe reſerves of Power his Father kept to himſelf, and deſigned to do during life, and being of an Aſpiring, Impatient, and Revengful Nature, of which the <hi>Dutch</hi> (in whoſe Eye <hi>Bantam</hi> hath been for many years an Agree<g ref="char:EOLhyphen"/>vance) making uſe by ſeveral Inſtruments, <hi>viz.</hi> Great Men under the King (one of which is a Dutchman turned Mahometan, and preferred to great Honours at Court) firſt perſwaded him to build a Fort for his De<g ref="char:EOLhyphen"/>fence, and always buzzed in his Ears, That his Father was diſguſted with him, and kept part of the Kingdom with no other Deſign, but to ſet up his younger Brother, whom he dearly loved; and every Kindneſs or Fa<g ref="char:EOLhyphen"/>vour conferred on the younger Son (who was ever indeed his Fathers Darling) was repreſented like a Robbery of him: being poſſeſt with this belief, he laboured daily to ſtrengthen himſelf, and to cut off and hin<g ref="char:EOLhyphen"/>der his Father what he could from all ſorts of Ammunition; many times not ſuffering us to deliver what was ſent the Old King by the Company, but ingroſſing it to himſelf, alledging that he being inſtituted in the Throne, and his Father having laid aſide the Cares of Government, it was more conducing to the good of the Kingdom for him to be Poſſeſſor of it, who would ſee it fitly imployed: His Father was patient, not thinking it his Kingdoms Intereſt to quarrel, only ſeemed a little angrily to reſent his uſage, his Fort being done, and he in his own conceit ſufficiently ſtrong with his own Forces, and promiſed Aid from the <hi>Dutch,</hi> ſent to his Father, whoſe Court was about Twenty Miles diſtant from his, to come and live with him, and reſign up his Power, if not ſo ſatisfied, would provide him a Ship to go for <hi>Meaco</hi> to the Tomb of <hi>Mahomet,</hi> to end his days in a Religious Retirement; and if he would condeſcend to neither, he would take away his Life,</p>
+            <pb n="2" facs="tcp:51609:2" rendition="simple:additions"/>
+            <p>His Father, as he had lived, was reſolved to die a King, and upon Receipt of the Meſſage, immediately proclaimed open War, and each ſtrength<g ref="char:EOLhyphen"/>ened himſelf to his power: the young King finding all his Brothers and Kindred, and moſt of his Great Men, fly to his Father, and having nothing but the poſſeſſion of the Town or City of <hi>Bantam</hi> and his Fort therein left him; immediately ſent for the <hi>Dutch,</hi> who with as much ſpeed at<g ref="char:EOLhyphen"/>tended him with about 18 Sail of Ships in the Road, thinking inſtead of ſighting their way, to have Reception on Shore into the Fort (which we are informed they had Orders only to poſſeſs themſelves of without offering violence to any) and had, had not the Old King with his Army intervened a day or two before, who burnt and plundered all <hi>Bantam,</hi> except our Factory, and a ſhort Street of <hi>Chinamens</hi> Houſes, where the <hi>French</hi> and <hi>Danes</hi> live; thereby ſecuring the Shore and all the inhabitants of <hi>Bantam</hi> to himſelf: and all this was begun, I mean the War proclaimed, and thus far proceeded in the Month of <hi>February;</hi> the Dutch ſeeing themſelves de<g ref="char:EOLhyphen"/>prived of that eaſie reception they expected, put another face upon their buſineſs, pretending they only came to bring a Letter to the Old King from the General and Council of <hi>Batavia,</hi> who were hitherto in Ami<g ref="char:EOLhyphen"/>ty with him, have lain with their Ships in the Road theſe 14 days with<g ref="char:EOLhyphen"/>out firing a Gun or coming on Shore; all which time the Old Kings Forces have laboured to ſtrengthen the Shore, in order to keep them from land<g ref="char:EOLhyphen"/>ing: and the Contents of their Letter is undoubtedly to pick a quarrel, having ſo fair an opportunity, which the Old King hath refuſed ſending for, as the Cuſtom is here in State, becauſe attended here with ſo great an Army; but we hear now intends to fetch it. Then we ſhall unſterſtand their De<g ref="char:EOLhyphen"/>mands, The Young King, with thoſe four or five Great Men bribed by the Dutch, and about three or four hundred men, remain in the Fort, fires his great Guns daily, and we have received eight or ten Shot into our Facto<g ref="char:EOLhyphen"/>ry, but God be thanked they hurt no body. Three or four days toge<g ref="char:EOLhyphen"/>ther he hoiſed a Dutch Flag, but now his own again, and that but at times; which is conjectured to be only Signs to the Dutch; ſeveral men with Letters having been intercepted between them. 'Tis ſaid the Dutch have more Forces coming, and if they land their men, undoubtedly <hi>Bantam</hi> is theirs. We ſtand to the fate of War, our Factory being in the midſt of danger; which we keep with Guard and a conſtant Watch: We have each of us our Muskets, with ſuch other Arms as we could get for our defence; and in this poſture we ſtand expecting the ſudden (but dreadful) Aſſaults of the Enemy. Our Factory is concerned in a very great and conſiderable Adventure on Board a Ship of the Young Kings to the <hi>Manilas,</hi> not yet ar<g ref="char:EOLhyphen"/>rived; if the Old King get her, he will ſeize all, but with promiſe of repay<g ref="char:EOLhyphen"/>ment, but there is little hopes; of his performance: if the Dutch take her we hope better from them; and we have declared, as likewiſe the French and Danes, by Letter to their Admiral in the Road, what we are concerned; who have promiſed to ſee us have our own reſpectively.</p>
+            <p>This Place is ruined as to any Trade for Seven years to come, if the Old King prove Victor, and if the Dutch ſhould be worſe than their word, our Lives and Fortunes at their diſpoſe. Our Factory is reported to be a rich place, and therefore if there be any Deſign againſt us, it may eaſily be ima<g ref="char:EOLhyphen"/>gined what we muſt look for from Souldiers when overcome. I do not then by reaſon of the ſad Experience of their Cruelty, expect to live to give you a further Account from</p>
+            <closer>
+               <dateline>
+                  <hi>Bantam,</hi> 
+                  <date>8 <hi>March</hi> 1681.</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed>Your Aſſured Friend.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. T.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
